@@ -1,0 +1,26 @@
+[
+  {
+    "displayName": "Goteborg project -test",
+    "location": "g",
+    "desc": "goteborg",
+    "date": "2015-09-09",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg/1920px-G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg",
+    "link": ""
+  },
+  {
+    "displayName": "Hotell Haymarket Scandic (PUB huset), Stockholm",
+    "location": "m",
+    "desc": "haymarket",
+    "date": "2016-05-01",
+    "image": "https://optim.tildacdn.net/tild3932-3666-4437-a664-373934616565/-/format/webp/Haymarket_Facade_238.jpg.webp",
+    "link": "https://elementhiss.se/pub-huset"
+  },
+  {
+    "displayName": "skone test ",
+    "location": "s",
+    "desc": "skone",
+    "date": "2018-04-12",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sk%C3%A5ne_l%C3%A4n_in_Sweden.svg/250px-Sk%C3%A5ne_l%C3%A4n_in_Sweden.svg.png",
+    "link": ""
+  }
+]
