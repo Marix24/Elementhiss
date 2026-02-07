@@ -1,10 +1,18 @@
 [
   {
+    "displayName": "Korttidsboend Ginnungagap",
+    "location": "m",
+    "desc": "Djursholm",
+    "date": "2025-05-01",
+    "image": "https://optim.tildacdn.net/tild6163-3139-4138-a166-343234336630/-/format/webp/image.png.webp",
+    "link": "https://elementhiss.se/korttidsboende-ginnungagap"
+  },
+  {
     "displayName": "Bostadsfastighet Vinkelhuset",
     "location": "m",
     "desc": "Stockholm",
     "date": "2025-08-01",
-    "image": "https://optim.tildacdn.net/tild6163-3139-4138-a166-343234336630/-/format/webp/image.png.webp",
+    "image": "https://optim.tildacdn.net/tild3235-3362-4636-b339-333564353935/-/format/webp/image.png.webp",
     "link": "https://elementhiss.se/vinkelhuset"
   },
   {
