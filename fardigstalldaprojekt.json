@@ -1,5 +1,13 @@
 [
     {
+    "displayName": "Bostadsfastighet Ersta 25",
+    "location": "m",
+    "desc": "Stockholm",
+    "date": "2025-10-01",
+    "image": "https://optim.tildacdn.net/tild6362-6131-4432-b063-623134336639/-/format/webp/image.png.webp",
+    "link": "https://elementhiss.se/ersta-25"
+  },
+    {
     "displayName": "Eleonoraskolan",
     "location": "m",
     "desc": "Hallunda",
