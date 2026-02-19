@@ -1,5 +1,13 @@
 [
     {
+    "displayName": "Bostadsfastighet Kv. Modellören",
+    "location": "m",
+    "desc": "Gustavsberg",
+    "date": "2025-12-01",
+    "image": "https://optim.tildacdn.net/tild6434-6530-4131-b665-663930396637/-/format/webp/image.png.webp",
+    "link": "https://elementhiss.se/modelloren"
+  },
+    {
     "displayName": "Kontorsfastighet Erskine & Friends",
     "location": "m",
     "desc": "Kungsholmen",
