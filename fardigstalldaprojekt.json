@@ -1,5 +1,21 @@
 [
     {
+    "displayName": "ROT av flerbostadshus Slaktaren 12",
+    "location": "m",
+    "desc": "Sundbyberg",
+    "date": "2025-12-01",
+    "image": "https://optim.tildacdn.net/tild3135-6662-4263-a537-613565626165/-/format/webp/image.png.webp",
+    "link": "https://elementhiss.se/slaktaren-12"
+  },
+    {
+    "displayName": "Ombyggnad av kontorsfastighet till bostadsfastighet Telegrafen",
+    "location": "m",
+    "desc": "Nynäshamn",
+    "date": "2025-10-01",
+    "image": "https://optim.tildacdn.net/tild3963-6137-4530-b830-616138323764/-/format/webp/image.png.webp",
+    "link": "https://elementhiss.se/telegrafen"
+  },
+    {
     "displayName": "Bostadsfastighet Smörslottsgatan Omr. B",
     "location": "g",
     "desc": "Göteborg",
