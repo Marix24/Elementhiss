@@ -1,5 +1,21 @@
 [
     {
+    "displayName": "Kontorsfastighet Erskine & Friends",
+    "location": "m",
+    "desc": "Kungsholmen",
+    "date": "2025-12-01",
+    "image": "https://optim.tildacdn.net/tild3265-3433-4530-a230-393235366336/-/format/webp/image.png.webp",
+    "link": "https://elementhiss.se/erskine-friends"
+  },
+    {
+    "displayName": "Äldreboende Villa Brage",
+    "location": "m",
+    "desc": "Djursholm",
+    "date": "2025-12-01",
+    "image": "https://optim.tildacdn.net/tild3239-3766-4861-b464-313135636561/-/format/webp/image.png.webp",
+    "link": "https://elementhiss.se/villa-brage"
+  },
+    {
     "displayName": "Bostadsfastighet Ädellövet",
     "location": "m",
     "desc": "Farsta",
